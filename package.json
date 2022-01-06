@@ -1,9 +1,9 @@
 {
-  "name": "vue-color-avatar",
+  "name": "零域色彩头像",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "author": "LeoKu<czc12580520@gmail.com> (https://leoku.top)",
+  "author": "PinYoung<Feedback@bytebeauty.com> (https://0skyu.cn)",
   "scripts": {
     "build": "npm run test && vite build",
     "build:prerelease": "vite build --mode prerelease",
